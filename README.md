@@ -38,8 +38,6 @@ For security reasons, the personal OpenAI API key has been removed from the publ
 2. Locate line 14: `const apiKey = "";`
 3. Paste your valid OpenAI API Key inside the quotations: `const apiKey = "your-sk-proj-key";`
 
-> ⚠️ **Security Warning:** Never commit or push your actual API key back to any public repository.
-
 ### 4. Launch the Local Development Server
 ```bash
 npm start
